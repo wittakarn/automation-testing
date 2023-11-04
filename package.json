@@ -1,0 +1,25 @@
+{
+  "name": "automation-testing",
+  "version": "1.0.0",
+  "description": "automation test learning project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittakarn/automation-testing.git"
+  },
+  "author": "Wittakarn Keeratichayakorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wittakarn/automation-testing/issues"
+  },
+  "homepage": "https://github.com/wittakarn/automation-testing#readme",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  },
+  "engines": {
+    "npm": ">=20.0.0"
+  }
+}
