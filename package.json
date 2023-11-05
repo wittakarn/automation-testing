@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/wittakarn/automation-testing#readme",
   "devDependencies": {
-    "cypress": "^13.4.0"
+    "cypress": "^13.4.0",
+    "typescript": "^5.2.2"
   },
   "engines": {
-    "npm": ">=20.0.0"
+    "node": ">=20.0.0"
   }
 }
