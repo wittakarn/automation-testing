@@ -1,11 +1,6 @@
 {
-    "include": [
-        "src",
-        "./cypress.d.ts"
-    ],
-    "exclude": [
-        "cypress.config.ts",
-        "cypress",
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "nodenext"
+  }
 }

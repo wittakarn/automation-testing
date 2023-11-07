@@ -22,5 +22,9 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0"
   }
 }
